@@ -16,6 +16,14 @@
 - https://rollupjs.org/guide/en/
 - https://unsplash.com/
 
+### Performance
+
+- [pingdom](https://tools.pingdom.com/)
+- [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
+- [Performance Test](https://web.dev/measure/)
+- [webpagetest.org](https://www.webpagetest.org/)
+- [browserstack.com/speedlab](https://www.browserstack.com/speedlab)
+
 ### Generators
 
 - [Fawicon Generator](https://realfavicongenerator.net/)
@@ -24,12 +32,7 @@
 
 ### HTML Tools
 
-- [Mobile-Friendly Test](https://search.google.com/test/mobile-friendly)
-- [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
 - [SSL Test](https://www.ssllabs.com/ssltest)
-- [Performance Test](https://web.dev/measure/)
-- [webpagetest.org](https://www.webpagetest.org/)
-- [browserstack.com/speedlab](https://www.browserstack.com/speedlab)
 - [Screen Test](https://screenfly.org/)
 - [Browser Default Styles](https://browserdefaultstyles.com/)
 
@@ -40,6 +43,7 @@
 
 ### SEO Tools
 
+- [Mobile-Friendly Test](https://search.google.com/test/mobile-friendly)
 - [Twitter Validation Tool](https://dev.twitter.com/docs/cards/validation/validator)
 - [Facebook Debugger](https://developers.facebook.com/tools/debug)
 - [Google Structured Data Testing Tool](http://www.google.com/webmasters/tools/richsnippets)
