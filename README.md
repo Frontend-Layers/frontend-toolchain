@@ -84,4 +84,9 @@
 - [Gradient Generator](https://cssgradient.io/)
 
 
+### Icons
+
+- [Tabler Icons](https://tablericons.com/)
+
+
 ### Best Practices
