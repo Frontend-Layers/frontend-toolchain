@@ -35,6 +35,7 @@
 - [SSL Test](https://www.ssllabs.com/ssltest)
 - [Screen Test](https://screenfly.org/)
 - [Browser Default Styles](https://browserdefaultstyles.com/)
+- [Layout Patterns](https://csslayout.io/patterns/)
 
 ### Security Test
 
