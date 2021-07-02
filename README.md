@@ -59,6 +59,7 @@
 ### Tests
 
 - [CSS Stats](https://cssstats.com/)
+- [Is your website hosted green?](https://www.thegreenwebfoundation.org/)
 
 
 ### Accessability
