@@ -97,3 +97,10 @@
 
 ### 3D Tools
 - [gltf viewer](https://gltf.pmnd.rs/)
+
+
+### VSC snippets
+```
+"security.workspace.trust.enabled": false
+```
+
