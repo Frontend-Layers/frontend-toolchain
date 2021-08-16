@@ -51,6 +51,10 @@
 - [LinkedIn Post Inspector](https://www.linkedin.com/post-inspector/inspect/)
 - [open-graph-generator](https://webcode.tools/open-graph-generator)
 
+### Semantic Tests
+
+- [Rich Results Test](https://search.google.com/test/rich-results)
+
 ### Commercial
 
 - [Stripe Dupmmy Cards](https://stripe.com/docs/testing#cards)
