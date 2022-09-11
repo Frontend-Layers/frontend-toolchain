@@ -98,7 +98,7 @@
 ### Icons
 
 - [Tabler Icons](https://tablericons.com/)
-
+- [Bootstrap Icons](https://icons.getbootstrap.com/)
 
 ### 3D Tools
 - [gltf viewer](https://gltf.pmnd.rs/)
