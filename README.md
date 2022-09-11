@@ -103,9 +103,8 @@
 ### 3D Tools
 - [gltf viewer](https://gltf.pmnd.rs/)
 
+## API
 
-### VSC snippets
-```
-"security.workspace.trust.enabled": false
-```
-
+- [Markup Validator Web Service API](https://validator.w3.org/docs/api.html)
+- [PageSpeed Insights API](https://developers.google.com/speed/docs/insights/v5/get-started)
+- [Any other public APIs](https://github.com/n0shake/Public-APIs)
