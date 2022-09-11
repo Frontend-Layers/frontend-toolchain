@@ -70,6 +70,7 @@
 
 - [a11yproject checklist](https://www.a11yproject.com/checklist/)
 - https://www.w3.org/TR/wai-aria-1.1/
+- https://wave.webaim.org/
 
 ### Images Compression
 
