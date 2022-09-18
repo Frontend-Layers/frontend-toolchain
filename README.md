@@ -1,6 +1,5 @@
 # Frontend Toolchain
 
-
 ## Resources
 
 - [The Open Graph protocol specification](https://ogp.me/)
