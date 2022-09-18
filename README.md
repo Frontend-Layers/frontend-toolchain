@@ -17,7 +17,7 @@ _Some useful links for daily development_
 - https://rollupjs.org/guide/en/
 - https://unsplash.com/
 
-### Performance
+## Performance
 
 - [pingdom](https://tools.pingdom.com/)
 - [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
@@ -38,11 +38,6 @@ _Some useful links for daily development_
 - [Browser Default Styles](https://browserdefaultstyles.com/)
 - [Layout Patterns](https://csslayout.io/patterns/)
 
-### Security Test
-
-- [https://securityheaders.com/](https://securityheaders.com/)
-- [https://observatory.mozilla.org/](https://observatory.mozilla.org/)
-
 ### SEO Tools
 
 - [Mobile-Friendly Test](https://search.google.com/test/mobile-friendly)
@@ -52,49 +47,53 @@ _Some useful links for daily development_
 - [LinkedIn Post Inspector](https://www.linkedin.com/post-inspector/inspect/)
 - [open-graph-generator](https://webcode.tools/open-graph-generator)
 
-### Semantic Tests
-
-- [Rich Results Test](https://search.google.com/test/rich-results)
-
-### Commercial
+## Commercial
 
 - [Stripe Dupmmy Cards](https://stripe.com/docs/testing#cards)
 
 
-### Tests
+## Tests
 
 - [CSS Stats](https://cssstats.com/)
 - [Is your website hosted green?](https://www.thegreenwebfoundation.org/)
 
+### Semantic Tests
 
-### Accessability
+- [Rich Results Test](https://search.google.com/test/rich-results)
+
+### Security Test
+
+- [https://securityheaders.com/](https://securityheaders.com/)
+- [https://observatory.mozilla.org/](https://observatory.mozilla.org/)
+
+
+## Accessability
 
 - [a11yproject checklist](https://www.a11yproject.com/checklist/)
 - https://www.w3.org/TR/wai-aria-1.1/
 - https://wave.webaim.org/
 
-### Images Compression
+## Images Compression
 
 - [https://shrinkme.app/](https://shrinkme.app/)
 - [https://squoosh.app/](https://squoosh.app/)
 
-### Animation
+## Animation
 
 - [https://cubic-bezier.com/](https://cubic-bezier.com/)
 - [https://easings.net/en](https://easings.net/en)
 
-### Typography
+## Typography
 
 - https://www.typewolf.com/cheatsheet
 - https://dev.w3.org/html5/html-author/charref
 - https://www.toptal.com/designers/htmlarrows/
 
 
-### Other 
+## Other 
 
 - [Shadow Generator](https://brumm.af/shadows)
 - [Gradient Generator](https://cssgradient.io/)
-
 
 ### Icons
 
