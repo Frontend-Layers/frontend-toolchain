@@ -1,5 +1,7 @@
 # Frontend Toolchain
 
+_Some useful links for daily development__
+
 ## Resources
 
 - [The Open Graph protocol specification](https://ogp.me/)
