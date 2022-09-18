@@ -25,20 +25,18 @@ _Some useful links for daily development_
 - [webpagetest.org](https://www.webpagetest.org/)
 - [browserstack.com/speedlab](https://www.browserstack.com/speedlab)
 
-### Generators
+## Generators
 
 - [Fawicon Generator](https://realfavicongenerator.net/)
 - [Web Font Generator](https://transfonter.org/)
 - [videosmaller](https://www.videosmaller.com/)
 
-### HTML Tools
+## HTML Tools
 
-- [SSL Test](https://www.ssllabs.com/ssltest)
-- [Screen Test](https://screenfly.org/)
 - [Browser Default Styles](https://browserdefaultstyles.com/)
 - [Layout Patterns](https://csslayout.io/patterns/)
 
-### SEO Tools
+## SEO Tools
 
 - [Mobile-Friendly Test](https://search.google.com/test/mobile-friendly)
 - [Twitter Validation Tool](https://dev.twitter.com/docs/cards/validation/validator)
@@ -56,6 +54,7 @@ _Some useful links for daily development_
 
 - [CSS Stats](https://cssstats.com/)
 - [Is your website hosted green?](https://www.thegreenwebfoundation.org/)
+- [Screen Test](https://screenfly.org/)
 
 ### Semantic Tests
 
@@ -65,6 +64,7 @@ _Some useful links for daily development_
 
 - [https://securityheaders.com/](https://securityheaders.com/)
 - [https://observatory.mozilla.org/](https://observatory.mozilla.org/)
+- [SSL Test](https://www.ssllabs.com/ssltest)
 
 
 ## Accessability
