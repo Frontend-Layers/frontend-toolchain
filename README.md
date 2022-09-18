@@ -1,6 +1,6 @@
 # Frontend Toolchain
 
-_Some useful links for daily development__
+_Some useful links for daily development_
 
 ## Resources
 
