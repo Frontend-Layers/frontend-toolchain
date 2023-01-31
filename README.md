@@ -47,7 +47,7 @@ _Some useful links for daily development_
 
 ## Commercial
 
-- [Stripe Dupmmy Cards](https://stripe.com/docs/testing#cards)
+- [Stripe Dummy Cards](https://stripe.com/docs/testing#cards)
 
 
 ## Tests
@@ -89,6 +89,10 @@ _Some useful links for daily development_
 - https://dev.w3.org/html5/html-author/charref
 - https://www.toptal.com/designers/htmlarrows/
 
+### Programming Fonts
+
+- [Fira Code](https://github.com/tonsky/FiraCode)
+- [Victor Mono](https://github.com/rubjo/victor-mono)
 
 ## Other 
 
