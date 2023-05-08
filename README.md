@@ -121,4 +121,6 @@ _Some useful links for daily development_
 - https://randomuser.me/
 - https://api.chucknorris.io/
 
+## JS
 
+- https://the-algorithms.com/language/javascript
