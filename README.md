@@ -105,6 +105,7 @@ _Some useful links for daily development_
 
 - [Tabler Icons](https://tablericons.com/)
 - [Bootstrap Icons](https://icons.getbootstrap.com/)
+- http://www.iconbeast.com/free/
 
 ### 3D Tools
 - [gltf viewer](https://gltf.pmnd.rs/)
