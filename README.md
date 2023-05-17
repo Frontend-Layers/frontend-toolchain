@@ -107,6 +107,7 @@ _Some useful links for daily development_
 - [Bootstrap Icons](https://icons.getbootstrap.com/)
 - http://www.iconbeast.com/free/
 - [Simple Icons](https://simpleicons.org/)
+- [Google Fonts Material Symbols](https://fonts.google.com/icons?selected=Material+Symbols+Outlined:exit_to_app:FILL@0;wght@400;GRAD@0;opsz@48&icon.style=Outlined)
 
 ### 3D Tools
 - [gltf viewer](https://gltf.pmnd.rs/)
