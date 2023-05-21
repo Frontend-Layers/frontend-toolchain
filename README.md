@@ -129,6 +129,10 @@ _Some useful links for daily development_
 - https://randomuser.me/
 - https://api.chucknorris.io/
 
-## JS
+## Docs
+
+- [List of Free Learning Resources In Many Languages](https://github.com/EbookFoundation/free-programming-books)
+
+### JS
 
 - https://the-algorithms.com/language/javascript
