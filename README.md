@@ -32,12 +32,16 @@ _Some useful links for daily development_
 - [Web Font Generator](https://transfonter.org/)
 - [videosmaller](https://www.videosmaller.com/)
 
-## HTML Tools
+## Tools
+
+- [w3c Developer Tools](https://w3c.github.io/developers/tools/)
+
+### HTML Tools
 
 - [Browser Default Styles](https://browserdefaultstyles.com/)
 - [Layout Patterns](https://csslayout.io/patterns/)
 
-## SEO Tools
+### SEO Tools
 
 - [Mobile-Friendly Test](https://search.google.com/test/mobile-friendly)
 - [Twitter Validation Tool](https://dev.twitter.com/docs/cards/validation/validator)
