@@ -136,3 +136,4 @@ _Some useful links for daily development_
 ### JS
 
 - https://the-algorithms.com/language/javascript
+- (Awesome React)[https://github.com/enaqx/awesome-react] A collection of awesome things regarding the React ecosystem
