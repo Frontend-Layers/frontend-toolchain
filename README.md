@@ -132,6 +132,7 @@ _Some useful links for daily development_
 ## Docs
 
 - [List of Free Learning Resources In Many Languages](https://github.com/EbookFoundation/free-programming-books)
+- [Google Style Guides](https://google.github.io/styleguide/)
 
 ### JS
 
