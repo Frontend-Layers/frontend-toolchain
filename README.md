@@ -133,8 +133,8 @@ _Some useful links for daily development_
 
 - [List of Free Learning Resources In Many Languages](https://github.com/EbookFoundation/free-programming-books)
 - [Google Style Guides](https://google.github.io/styleguide/)
+- [Awesome Lists](https://project-awesome.org/)
 
 ### JS
 
 - https://the-algorithms.com/language/javascript
-- [Awesome React](https://github.com/enaqx/awesome-react) A collection of awesome things regarding the React ecosystem
