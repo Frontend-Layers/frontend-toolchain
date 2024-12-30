@@ -40,6 +40,7 @@ _Some useful links for daily development_
 
 - [Browser Default Styles](https://browserdefaultstyles.com/)
 - [Layout Patterns](https://csslayout.io/patterns/)
+- [FLEX: A simple visual cheatsheet for flexbox](https://flexbox.malven.co/)
 
 ### SEO Tools
 
