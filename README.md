@@ -55,6 +55,8 @@ _Some useful links for daily development_
 ## Commercial
 
 - [Stripe Dummy Cards](https://stripe.com/docs/testing#cards) – Documentation by Stripe for testing payment flows with dummy credit card details.
+- [PayPal Sandbox](https://developer.paypal.com/docs/api-basics/sandbox/) – Use PayPal’s sandbox environment to simulate transactions for testing and development.
+
 
 ## Tests
 
