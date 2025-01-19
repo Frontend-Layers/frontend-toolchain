@@ -4,13 +4,13 @@ _Some useful links for daily development_
 
 ## Resources
 
-- [The Open Graph protocol specification](https://ogp.me/)
-- https://cards-dev.twitter.com/validator
-- https://twitter.com/nanobop/status/1255002567131557888
-- https://developers.facebook.com/docs/sharing/webmasters/images/
-- https://toolbox.googleapps.com/apps/har_analyzer/
+- [The Open Graph Protocol Specification](https://ogp.me/) – Documentation for the Open Graph protocol to enhance content representation on social platforms.
+- [Twitter Card Validator](https://cards-dev.twitter.com/validator) – Tool for checking the validity of Twitter cards on your website.
+- [Facebook Sharing Debugger](https://developers.facebook.com/docs/sharing/webmasters/images/) – Tool for debugging images used for content previews on Facebook.
+- [HAR Analyzer by Google](https://toolbox.googleapps.com/apps/har_analyzer/) – Tool for analyzing HAR files and web page performance.
 
-### FE Resources
+
+### Frontend Resources
 
 - [Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist)
 - https://html5boilerplate.com/
