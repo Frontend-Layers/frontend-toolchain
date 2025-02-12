@@ -14,10 +14,6 @@ _Some useful links for daily development_
 
 - [Front-End Checklist](https://github.com/thedaviddias/Front-End-Checklist) – A comprehensive list of best practices and resources for front-end web development.
 - [HTML5 Boilerplate](https://html5boilerplate.com/) – A professional front-end template for building fast, robust, and adaptable web apps or sites.
-- [Gulp.js](https://gulpjs.com/) – A toolkit for automating tasks in your development workflow, like minifying CSS and JavaScript, compiling Sass, and more.
-- [Rollup.js Guide](https://rollupjs.org/guide/en/) – A module bundler for JavaScript that helps optimize code and reduce bundle size.
-- [Unsplash](https://unsplash.com/) – A platform offering free high-quality photos for use in projects, with a robust API for easy integration.
-
 
 ## Performance
 
@@ -135,7 +131,6 @@ _Some useful links for daily development_
 
 - [Open Trivia Database](https://opentdb.com/) – A free API for trivia questions and answers, allowing you to integrate fun and engaging quizzes into your applications.
 - [Random User Generator](https://randomuser.me/) – A tool for generating random user data, perfect for testing or populating sample user profiles.
-- [Chuck Norris Jokes API](https://api.chucknorris.io/) – An API that provides random Chuck Norris jokes, a fun addition to any project.
 
 ## Docs
 
@@ -151,3 +146,8 @@ _Some useful links for daily development_
 ## Assets
 
 - [CleanPNG - HD png images and illustrations](https://www.cleanpng.com/) – Discover transparent background images and illustrations. Best quality, free unlimited download.
+- [Unsplash](https://unsplash.com/) – A platform offering free high-quality photos for use in projects, with a robust API for easy integration.
+
+## UI Components
+
+- [Tweakpane](https://tweakpane.github.io/docs/) - A compact pane for fine-tuning parameters and monitoring value changes
