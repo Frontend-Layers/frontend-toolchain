@@ -150,4 +150,4 @@ _Some useful links for daily development_
 
 ## Assets
 
-- [CleanPNG - HD png images and illustrations](https://www.cleanpng.com/)
+- [CleanPNG - HD png images and illustrations](https://www.cleanpng.com/) – Discover transparent background images and illustrations. Best quality, free unlimited download.
