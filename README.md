@@ -146,3 +146,8 @@ _Some useful links for daily development_
 ### JS
 
 - [The Algorithms - JavaScript](https://the-algorithms.com/language/javascript) – A collection of algorithms and data structures implemented in JavaScript. This resource provides both beginner and advanced examples, making it a great way to improve your understanding of algorithms and coding practices in JavaScript.
+
+
+## Assets
+
+- [CleanPNG - HD png images and illustrations](https://www.cleanpng.com/)
