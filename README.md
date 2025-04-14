@@ -119,6 +119,7 @@ _Some useful links for daily development_
 
 ### 3D Tools
 - [GLTF Viewer](https://gltf.pmnd.rs/) – A web-based viewer for GLTF (GL Transmission Format) models, allowing you to visualize 3D models and scenes directly in the browser with high-performance rendering.
+- [https://lygia.xyz/](https://lygia.xyz/) – LYGIA is the biggest shader library. Battle proof, cross-platform and multi-language. Is made of reusable functions that will let you prototype, port and ship projects in just few minutes. It's very granular, flexible and efficient, supports multiple shading languages and can easily be added to virtually any project. There are already integrations for almost all major environments, engines and frameworks.
 
 ## API
 
