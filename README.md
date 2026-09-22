@@ -70,6 +70,7 @@ _Some useful links for daily development_
 - [Security Headers](https://securityheaders.com/) – Tool for testing the HTTP response headers and security best practices of your website.
 - [Mozilla Observatory](https://observatory.mozilla.org/) – A platform that evaluates and grades the security of your website, including headers, encryption, and more.
 - [SSL Test](https://www.ssllabs.com/ssltest) – Service for analyzing the SSL/TLS configuration of your website and assessing its security level.
+- [KeyDrift](https://keydrift.dev) – Scans deployed HTML and JavaScript for exposed secrets while recognizing public browser credentials that should not be treated as leaks.
 
 ## Accessability
 
