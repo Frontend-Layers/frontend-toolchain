@@ -32,6 +32,7 @@ Each entry helps with a specific task. The list favors useful recommendations ov
 - [web.dev: Learn Performance](https://web.dev/learn/performance/) — Practical guidance on loading, rendering, and Core Web Vitals.
 - [Chrome DevTools Performance](https://developer.chrome.com/docs/devtools/performance/) — Record and investigate runtime performance in the browser.
 - [Core Web Vitals](https://web.dev/articles/vitals) — Learn the user-centered metrics used to assess loading, interactivity, and visual stability.
+- [Baseline](https://web.dev/baseline/) — Check whether web platform features are supported across browsers.
 - [HAR Analyzer](https://toolbox.googleapps.com/apps/har_analyzer/) — Inspect HTTP Archive files to investigate network requests.
 
 ## Testing
@@ -78,6 +79,8 @@ Automated checks can catch only some accessibility issues. Include keyboard and 
 - [Vite](https://vite.dev/) — Start a frontend project with a development server and production build tool.
 - [TypeScript](https://www.typescriptlang.org/) — Add static type checking and editor tooling to JavaScript projects.
 - [Biome](https://biomejs.dev/) — Format and lint JavaScript, TypeScript, and related files with one tool.
+- [Chrome DevTools Local Overrides](https://developer.chrome.com/docs/devtools/overrides/) — Mock or edit network resources locally to test frontend changes without changing the server.
+- [Bundlephobia](https://bundlephobia.com/) — Check an npm package's impact on bundle size before adding it to a project.
 
 ## Images, fonts, and icons
 
