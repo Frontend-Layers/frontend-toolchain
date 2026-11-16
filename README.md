@@ -13,6 +13,7 @@ Each entry helps with a specific task. The list favors useful recommendations ov
 - [Security](#security)
 - [SEO and metadata](#seo-and-metadata)
 - [HTML and CSS](#html-and-css)
+- [Cheatsheets](#cheatsheets)
 - [Development tools](#development-tools)
 - [Images, fonts, and icons](#images-fonts-and-icons)
 - [UI and visual assets](#ui-and-visual-assets)
@@ -66,13 +67,19 @@ Automated checks can catch only some accessibility issues. Include keyboard and 
 ## HTML and CSS
 
 - [Can I use](https://caniuse.com/) — Check browser support for web platform features.
-- [Flexbox Cheatsheet](https://flexbox.malven.co/) — Visual reference for Flexbox properties.
-- [Grid Cheatsheet](https://grid.malven.co/) — Visual reference for CSS Grid properties.
 - [Browser Default Styles](https://browserdefaultstyles.com/) — Compare built-in browser styles for HTML elements.
 - [MDN Box-shadow Generator](https://developer.mozilla.org/en-US/docs/Web/CSS/Guides/Backgrounds_and_borders/Box-shadow_generator) — Build and preview CSS box shadows.
 - [Cubic Bezier](https://cubic-bezier.com/) — Create and preview cubic-bezier timing functions.
 - [Easings](https://easings.net/) — Explore common easing functions with visual examples.
 - [CSS Gradient](https://cssgradient.io/) — Build and preview CSS gradients.
+
+## Cheatsheets
+
+- [Devhints](https://devhints.io/) — Search concise guides for JavaScript, CSS, React, TypeScript, and developer tools.
+- [Flexbox Cheatsheet](https://flexbox.malven.co/) — Look up Flexbox properties and see how they affect layout.
+- [Grid Cheatsheet](https://grid.malven.co/) — Look up CSS Grid properties with visual examples.
+- [MDN Regular Expressions Cheat Sheet](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_expressions/Cheatsheet) — Find JavaScript regular expression syntax and examples.
+- [GitHub Git Cheat Sheet](https://training.github.com/downloads/github-git-cheat-sheet/) — Review common Git commands for branches, commits, and remotes.
 
 ## Development tools
 
