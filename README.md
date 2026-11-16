@@ -15,6 +15,7 @@ Each entry helps with a specific task. The list favors useful recommendations ov
 - [HTML and CSS](#html-and-css)
 - [Cheatsheets](#cheatsheets)
 - [Development tools](#development-tools)
+- [AI-assisted development](#ai-assisted-development)
 - [Images, fonts, and icons](#images-fonts-and-icons)
 - [UI and visual assets](#ui-and-visual-assets)
 - [APIs and test data](#apis-and-test-data)
@@ -33,7 +34,6 @@ Each entry helps with a specific task. The list favors useful recommendations ov
 - [web.dev: Learn Performance](https://web.dev/learn/performance/) — Practical guidance on loading, rendering, and Core Web Vitals.
 - [Chrome DevTools Performance](https://developer.chrome.com/docs/devtools/performance/) — Record and investigate runtime performance in the browser.
 - [Core Web Vitals](https://web.dev/articles/vitals) — Learn the user-centered metrics used to assess loading, interactivity, and visual stability.
-- [Baseline](https://web.dev/baseline/) — Check whether web platform features are supported across browsers.
 - [HAR Analyzer](https://toolbox.googleapps.com/apps/har_analyzer/) — Inspect HTTP Archive files to investigate network requests.
 
 ## Testing
@@ -67,6 +67,7 @@ Automated checks can catch only some accessibility issues. Include keyboard and 
 ## HTML and CSS
 
 - [Can I use](https://caniuse.com/) — Check browser support for web platform features.
+- [Baseline](https://web.dev/baseline/) — Check whether web platform features are supported across browsers.
 - [Browser Default Styles](https://browserdefaultstyles.com/) — Compare built-in browser styles for HTML elements.
 - [MDN Box-shadow Generator](https://developer.mozilla.org/en-US/docs/Web/CSS/Guides/Backgrounds_and_borders/Box-shadow_generator) — Build and preview CSS box shadows.
 - [Cubic Bezier](https://cubic-bezier.com/) — Create and preview cubic-bezier timing functions.
@@ -79,15 +80,17 @@ Automated checks can catch only some accessibility issues. Include keyboard and 
 - [Flexbox Cheatsheet](https://flexbox.malven.co/) — Look up Flexbox properties and see how they affect layout.
 - [Grid Cheatsheet](https://grid.malven.co/) — Look up CSS Grid properties with visual examples.
 - [MDN Regular Expressions Cheat Sheet](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_expressions/Cheatsheet) — Find JavaScript regular expression syntax and examples.
-- [GitHub Git Cheat Sheet](https://training.github.com/downloads/github-git-cheat-sheet/) — Review common Git commands for branches, commits, and remotes.
 
 ## Development tools
 
-- [Vite](https://vite.dev/) — Start a frontend project with a development server and production build tool.
-- [TypeScript](https://www.typescriptlang.org/) — Add static type checking and editor tooling to JavaScript projects.
 - [Biome](https://biomejs.dev/) — Format and lint JavaScript, TypeScript, and related files with one tool.
 - [Chrome DevTools Local Overrides](https://developer.chrome.com/docs/devtools/overrides/) — Mock or edit network resources locally to test frontend changes without changing the server.
 - [Bundlephobia](https://bundlephobia.com/) — Check an npm package's impact on bundle size before adding it to a project.
+
+## AI-assisted development
+
+- [Figma Make](https://www.figma.com/make/) — Turn prompts and designs into interactive, editable frontend prototypes.
+- [Playwright Test Agents](https://playwright.dev/docs/test-agents) — Explore an app, plan test coverage, and generate or repair Playwright tests.
 
 ## Images, fonts, and icons
 
