@@ -1,154 +1,121 @@
 # Frontend Toolchain
 
-_Some useful links for daily development_
+Tools and references for common frontend tasks.
 
-## Resources
+Each entry helps with a specific task. The list favors useful recommendations over volume.
 
-- [The Open Graph Protocol Specification](https://ogp.me/) – Documentation for the Open Graph protocol to enhance content representation on social platforms.
-- [Twitter Card Validator](https://cards-dev.twitter.com/validator) – Tool for checking the validity of Twitter cards on your website.
-- [Facebook Sharing Debugger](https://developers.facebook.com/docs/sharing/webmasters/images/) – Tool for debugging images used for content previews on Facebook.
-- [HAR Analyzer by Google](https://toolbox.googleapps.com/apps/har_analyzer/) – Tool for analyzing HAR files and web page performance.
+## Contents
 
+- [Audit a website](#audit-a-website)
+- [Performance](#performance)
+- [Testing](#testing)
+- [Accessibility](#accessibility)
+- [Security](#security)
+- [SEO and metadata](#seo-and-metadata)
+- [HTML and CSS](#html-and-css)
+- [Development tools](#development-tools)
+- [Images, fonts, and icons](#images-fonts-and-icons)
+- [UI and visual assets](#ui-and-visual-assets)
+- [APIs and test data](#apis-and-test-data)
+- [Learning and references](#learning-and-references)
+- [Contributing](#contributing)
 
-### Frontend Resources
+## Audit a website
 
-- [Front-End Checklist](https://github.com/thedaviddias/Front-End-Checklist) – A comprehensive list of best practices and resources for front-end web development.
-- [HTML5 Boilerplate](https://html5boilerplate.com/) – A professional front-end template for building fast, robust, and adaptable web apps or sites.
+- [Lighthouse](https://developer.chrome.com/docs/lighthouse/) — Audit performance, accessibility, SEO, and best practices in Chrome or from the command line.
+- [PageSpeed Insights](https://pagespeed.web.dev/) — Compare lab diagnostics with real-user Core Web Vitals when field data is available.
+- [WebPageTest](https://www.webpagetest.org/) — Inspect loading behavior across browsers, locations, and network conditions.
+- [Nu HTML Checker](https://validator.w3.org/nu/) — Find markup conformance errors in HTML documents.
 
 ## Performance
 
-- [Pingdom](https://tools.pingdom.com/) – A performance monitoring tool to analyze website speed and availability from different locations around the world.
-- [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/) – Google's tool for analyzing and optimizing web page performance for both mobile and desktop versions.
-- [Performance Test](https://web.dev/measure/) – Web.dev’s tool for measuring and improving site performance based on various factors, including Core Web Vitals.
-- [WebPageTest](https://www.webpagetest.org/) – A detailed website performance testing service that allows you to test from different locations and browsers.
-- [BrowserStack Speed Lab](https://www.browserstack.com/speedlab) – A tool that analyzes the speed of your website on various mobile devices and browsers, offering insights for improvement.
+- [web.dev: Learn Performance](https://web.dev/learn/performance/) — Practical guidance on loading, rendering, and Core Web Vitals.
+- [Chrome DevTools Performance](https://developer.chrome.com/docs/devtools/performance/) — Record and investigate runtime performance in the browser.
+- [Core Web Vitals](https://web.dev/articles/vitals) — Learn the user-centered metrics used to assess loading, interactivity, and visual stability.
+- [HAR Analyzer](https://toolbox.googleapps.com/apps/har_analyzer/) — Inspect HTTP Archive files to investigate network requests.
 
-## Generators
+## Testing
 
-- [Favicon Generator](https://realfavicongenerator.net/) – A tool to generate favicons and their corresponding HTML code for websites, compatible with all devices and platforms.
-- [Web Font Generator](https://transfonter.org/) – A service that converts fonts into web-friendly formats, including TTF, OTF, WOFF, and WOFF2.
-- [Video Smaller](https://www.videosmaller.com/) – A tool for compressing video files online, helping reduce file sizes without significant quality loss.
+- [Playwright](https://playwright.dev/) — Run end-to-end tests in Chromium, Firefox, and WebKit.
+- [Vitest](https://vitest.dev/) — Run unit and component tests with a Vite-compatible test runner.
+- [Testing Library](https://testing-library.com/) — Test UI through the same interactions users rely on.
 
-## Tools
+## Accessibility
 
-- [W3C Developer Tools](https://w3c.github.io/developers/tools/) – A collection of developer tools from the World Wide Web Consortium (W3C), offering useful utilities for web development and testing.
+- [W3C WAI: Evaluation Tools](https://www.w3.org/WAI/test-evaluate/tools/) — Browse accessibility evaluation tools and their capabilities.
+- [axe DevTools](https://www.deque.com/axe/devtools/) — Find common accessibility issues with axe-powered browser tooling.
+- [WAVE](https://wave.webaim.org/) — Get visual feedback about accessibility issues on a public page.
+- [A11Y Project Checklist](https://www.a11yproject.com/checklist/) — Use a practical checklist while building and reviewing websites.
+- [WCAG 2.2](https://www.w3.org/TR/WCAG22/) — Read the W3C Web Content Accessibility Guidelines.
 
-### HTML Tools
+Automated checks can catch only some accessibility issues. Include keyboard and assistive technology review in a real audit.
 
-- [Browser Default Styles](https://browserdefaultstyles.com/) – A tool that helps you explore the default styles applied by different browsers to HTML elements.
-- [Layout Patterns](https://csslayout.io/patterns/) – A collection of common CSS layout patterns with examples and code snippets.
-- [FLEX: A Simple Visual Cheatsheet for Flexbox](https://flexbox.malven.co/) – A visual guide and cheatsheet for understanding and using CSS Flexbox layout.
+## Security
 
-### SEO Tools
+- [HTTP Observatory](https://developer.mozilla.org/en-US/observatory/) — Scan a site for security headers and related configuration issues.
+- [SSL Labs Server Test](https://www.ssllabs.com/ssltest/) — Review a public server's TLS configuration.
 
-- [Mobile-Friendly Test](https://search.google.com/test/mobile-friendly) – Tool by Google to test if a website is optimized for mobile devices.
-- [Twitter Validation Tool](https://dev.twitter.com/docs/cards/validation/validator) – Tool for checking the validity of Twitter Cards used for sharing content on Twitter.
-- [Facebook Debugger](https://developers.facebook.com/tools/debug) – Facebook's tool for debugging and previewing how shared content will appear on Facebook.
-- [Google Structured Data Testing Tool](http://www.google.com/webmasters/tools/richsnippets) – Tool to check and validate structured data (rich snippets) on your web pages.
-- [LinkedIn Post Inspector](https://www.linkedin.com/post-inspector/inspect/) – Tool for inspecting how your links and content will appear when shared on LinkedIn.
-- [Open Graph Generator](https://webcode.tools/open-graph-generator) – Tool for generating Open Graph metadata to enhance link previews on social media platforms.
+## SEO and metadata
 
-## Commercial
+- [Google Rich Results Test](https://search.google.com/test/rich-results) — Check structured data that may enable Google rich results.
+- [Facebook Sharing Debugger](https://developers.facebook.com/tools/debug/) — Inspect and refresh the information used for Facebook link previews.
+- [Open Graph Protocol](https://ogp.me/) — Reference for Open Graph metadata used by social platforms.
+- [Open Graph Generator](https://webcode.tools/generators/open-graph) — Generate Open Graph metadata for a page.
 
-- [Stripe Dummy Cards](https://stripe.com/docs/testing#cards) – Documentation by Stripe for testing payment flows with dummy credit card details.
-- [PayPal Sandbox](https://developer.paypal.com/docs/api-basics/sandbox/) – Use PayPal’s sandbox environment to simulate transactions for testing and development.
+## HTML and CSS
 
+- [Can I use](https://caniuse.com/) — Check browser support for web platform features.
+- [Flexbox Cheatsheet](https://flexbox.malven.co/) — Visual reference for Flexbox properties.
+- [Grid Cheatsheet](https://grid.malven.co/) — Visual reference for CSS Grid properties.
+- [Browser Default Styles](https://browserdefaultstyles.com/) — Compare built-in browser styles for HTML elements.
+- [MDN Box-shadow Generator](https://developer.mozilla.org/en-US/docs/Web/CSS/Guides/Backgrounds_and_borders/Box-shadow_generator) — Build and preview CSS box shadows.
+- [Cubic Bezier](https://cubic-bezier.com/) — Create and preview cubic-bezier timing functions.
+- [Easings](https://easings.net/) — Explore common easing functions with visual examples.
+- [CSS Gradient](https://cssgradient.io/) — Build and preview CSS gradients.
 
-## Tests
+## Development tools
 
-- [CSS Stats](https://cssstats.com/) – Analyzes and visualizes your website's CSS, providing insights into its structure and efficiency.
-- [Is your website hosted green?](https://www.thegreenwebfoundation.org/) – A tool to check if your website is hosted using renewable energy.
-- [Screen Test](https://screenfly.org/) – Test how your website looks on different screen sizes and devices.
-- [Toptal Utilities Tools](https://www.toptal.com/utilities-tools) – A collection of useful tools for web developers and designers.
+- [Vite](https://vite.dev/) — Start a frontend project with a development server and production build tool.
+- [TypeScript](https://www.typescriptlang.org/) — Add static type checking and editor tooling to JavaScript projects.
+- [Biome](https://biomejs.dev/) — Format and lint JavaScript, TypeScript, and related files with one tool.
 
-### Semantic Tests
+## Images, fonts, and icons
 
-- [Rich Results Test](https://search.google.com/test/rich-results) – Tool from Google to test your site's structured data and ensure it generates rich results in search.
+- [Squoosh](https://squoosh.app/) — Compare image formats and compression settings in the browser.
+- [TinyPNG](https://tinypng.com/) — Compress PNG, JPEG, WebP, and AVIF images online.
+- [RealFaviconGenerator](https://realfavicongenerator.net/) — Generate favicon assets and markup for common platforms.
+- [Google Fonts](https://fonts.google.com/) — Browse and use open font families.
+- [Fontsource](https://fontsource.org/) — Self-host open-source fonts through packages.
+- [Tabler Icons](https://tabler.io/icons) — Browse open-source icons available as SVGs and packages.
+- [Lucide](https://lucide.dev/) — Browse a consistent set of open-source icons.
+- [Simple Icons](https://simpleicons.org/) — Find SVG icons for popular brands.
 
-### Security Test
+## UI and visual assets
 
-- [Security Headers](https://securityheaders.com/) – Tool for testing the HTTP response headers and security best practices of your website.
-- [Mozilla Observatory](https://observatory.mozilla.org/) – A platform that evaluates and grades the security of your website, including headers, encryption, and more.
-- [SSL Test](https://www.ssllabs.com/ssltest) – Service for analyzing the SSL/TLS configuration of your website and assessing its security level.
+- [Storybook](https://storybook.js.org/) — Develop and document UI components in isolation.
+- [shadcn/ui](https://ui.shadcn.com/) — Copy-ready UI components and patterns for React projects.
+- [Open Props](https://open-props.style/) — Copy-ready CSS custom properties for design tokens and common styles.
+- [Unsplash](https://unsplash.com/) — Find photography for prototypes and visual assets.
+- [DiceBear](https://www.dicebear.com/) — Generate customizable avatar illustrations.
+- [GLTF Viewer](https://gltf.pmnd.rs/) — Preview glTF and GLB 3D assets in a browser.
 
-## Accessability
+## APIs and test data
 
-- [a11yproject checklist](https://www.a11yproject.com/checklist/) – A comprehensive checklist to ensure your website is accessible and meets accessibility standards.
-- [WAI-ARIA 1.1 Specification](https://www.w3.org/TR/wai-aria-1.1/) – Official W3C specification for Accessible Rich Internet Applications (ARIA), helping improve accessibility for web content.
-- [WAVE Web Accessibility Evaluation Tool](https://wave.webaim.org/) – Tool to evaluate web accessibility and identify issues that might affect users with disabilities.
+- [Hoppscotch](https://hoppscotch.io/) — Send and inspect HTTP requests from a browser-based API client.
+- [Mock Service Worker](https://mswjs.io/) — Mock network requests in development and tests.
+- [JSONPlaceholder](https://jsonplaceholder.typicode.com/) — Use a fake REST API for quick prototypes.
+- [Random User Generator](https://randomuser.me/) — Generate sample user data for demos and prototypes.
+- [Stripe Test Cards](https://docs.stripe.com/testing) — Use documented test payment methods in Stripe integrations.
+- [PayPal Sandbox](https://developer.paypal.com/tools/sandbox/) — Test PayPal integrations in a sandbox environment.
 
-## Images Compression
+## Learning and references
 
-- [Compressor.io](https://compressor.io/) – Online tool to compress JPEG, PNG, GIF, and SVG images, optimizing them for faster web loading.
-- [ShrinkMe](https://shrinkme.app/) – A tool to compress and reduce the size of your images without losing quality, helping improve web performance.
-- [Squoosh](https://squoosh.app/) – An image compression tool that allows you to optimize images for the web, with support for various formats and quality settings.
-- [TinyPNG](https://tinypng.com/) – A simple tool to compress PNG and JPEG images without losing quality, ideal for web usage.
-- [ImageOptim](https://imageoptim.com/) – A Mac application for compressing images, reducing file sizes while maintaining high quality.
-- [Optimizilla](https://imagecompressor.com/) – An online image compressor for JPEG and PNG files, offering a balance of file size reduction and visual quality.
+- [MDN Learn Web Development](https://developer.mozilla.org/en-US/docs/Learn_web_development) — Learn core web technologies with structured guides.
+- [web.dev](https://web.dev/) — Read guidance and tutorials on building for the modern web.
+- [Frontend Checklist](https://github.com/thedaviddias/Front-End-Checklist) — Review a broad checklist of quality considerations for websites.
+- [Frontend Awesome](https://github.com/felipefialho/frontend-awesome) — Browse a larger community-curated collection of frontend tools and resources.
+- [Frontend Dev Bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) — Explore a comprehensive, manually curated frontend reference collection.
 
-## Animation
+## Contributing
 
-- [Cubic Bezier](https://cubic-bezier.com/) – A tool for creating and visualizing custom cubic-bezier easing functions, helping you fine-tune animations.
-- [Easings.net](https://easings.net/en) – A comprehensive collection of easing functions for CSS transitions and animations, with live demos and code snippets.
-
-## Typography
-
-- [Typewolf Cheatsheet](https://www.typewolf.com/cheatsheet) – A handy reference for web typography, featuring popular font pairings and examples.
-- [HTML Character Entity References](https://dev.w3.org/html5/html-author/charref) – A guide for HTML character references and special symbols to enhance web content.
-- [Toptal HTML Arrows](https://www.toptal.com/designers/htmlarrows/) – A collection of arrow symbols and characters for web design, with HTML and CSS code examples.
-
-
-### Programming Fonts
-
-- [Fira Code](https://github.com/tonsky/FiraCode) – A monospaced font with programming ligatures, designed for coding with better readability and aesthetics.
-- [Victor Mono](https://github.com/rubjo/victor-mono) – A monospaced font with ligatures for developers, offering a clean, readable, and modern design.
-
-
-## Other Tools
-
-- [Shadow Generator](https://brumm.af/shadows) – A tool to easily create and customize CSS box-shadow effects for your web elements.
-- [Gradient Generator](https://cssgradient.io/) – A user-friendly tool for generating gradients in CSS, with a visual interface to tweak colors and styles.
-
-### Icons
-
-- [Tabler Icons](https://tablericons.com/) – A collection of over 500 fully customizable, free, and open-source icons designed for web applications.
-- [Bootstrap Icons](https://icons.getbootstrap.com/) – A library of high-quality, easy-to-use icons built to work seamlessly with Bootstrap projects.
-- [IconBeast Free Icons](http://www.iconbeast.com/free/) – A free collection of high-quality icons available in various formats, perfect for your web and mobile projects.
-- [Simple Icons](https://simpleicons.org/) – A library of over 200 simple and consistent SVG icons for popular brands, with an easy-to-use interface for selection.
-- [Google Fonts Material Symbols](https://fonts.google.com/icons?selected=Material+Symbols+Outlined:exit_to_app:FILL@0;wght@400;GRAD@0;opsz@48&icon.style=Outlined) – A comprehensive set of Material Design icons, available for use in web projects and optimized for high-quality performance.
-
-### 3D Tools
-- [GLTF Viewer](https://gltf.pmnd.rs/) – A web-based viewer for GLTF (GL Transmission Format) models, allowing you to visualize 3D models and scenes directly in the browser with high-performance rendering.
-- [https://lygia.xyz/](https://lygia.xyz/) – LYGIA is the biggest shader library. Battle proof, cross-platform and multi-language. Is made of reusable functions that will let you prototype, port and ship projects in just few minutes. It's very granular, flexible and efficient, supports multiple shading languages and can easily be added to virtually any project. There are already integrations for almost all major environments, engines and frameworks.
-
-## API
-
-- [Markup Validator Web Service API](https://validator.w3.org/docs/api.html) – A web service that allows you to validate HTML and XHTML documents, providing detailed error reports.
-- [PageSpeed Insights API](https://developers.google.com/speed/docs/insights/v5/get-started) – Google's tool for analyzing the performance of web pages and providing suggestions for improvements.
-- [Any Other Public APIs](https://github.com/n0shake/Public-APIs) – A collection of free, public APIs for various services and use cases.
-- [A Simple HTTP Request & Response Service](http://httpbin.org/) – A simple HTTP request and response service that helps in testing and debugging API calls.
-
-### Dev. API
-
-- [Open Trivia Database](https://opentdb.com/) – A free API for trivia questions and answers, allowing you to integrate fun and engaging quizzes into your applications.
-- [Random User Generator](https://randomuser.me/) – A tool for generating random user data, perfect for testing or populating sample user profiles.
-
-## Docs
-
-- [List of Free Learning Resources In Many Languages](https://github.com/EbookFoundation/free-programming-books) – A comprehensive list of free programming books and resources available in multiple languages, perfect for developers at any level.
-- [Google Style Guides](https://google.github.io/styleguide/) – Google's official style guides for coding and documentation, helping ensure consistency and best practices in code.
-- [Awesome Lists](https://project-awesome.org/) – A collection of curated lists covering various topics, from programming languages to tools and frameworks, designed to help developers find the best resources.
-
-### JS
-
-- [The Algorithms - JavaScript](https://the-algorithms.com/language/javascript) – A collection of algorithms and data structures implemented in JavaScript. This resource provides both beginner and advanced examples, making it a great way to improve your understanding of algorithms and coding practices in JavaScript.
-
-
-## Assets
-
-- [CleanPNG - HD png images and illustrations](https://www.cleanpng.com/) – Discover transparent background images and illustrations. Best quality, free unlimited download.
-- [Unsplash](https://unsplash.com/) – A platform offering free high-quality photos for use in projects, with a robust API for easy integration.
-
-## UI Components
-
-- [Tweakpane](https://tweakpane.github.io/docs/) - A compact pane for fine-tuning parameters and monitoring value changes
+To suggest a resource, open a pull request and follow [CONTRIBUTING.md](CONTRIBUTING.md).
